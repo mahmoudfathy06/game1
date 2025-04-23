@@ -15,6 +15,10 @@ void main()
 cout<<"mamoud is ya bdany "; 
 
 
+for (int i=0;i<30;i++)
+	{
+		cout<< "bdany";
+	}
 
 
 
@@ -24,6 +28,5 @@ cout<<"mamoud is ya bdany ";
 
 
 
-
-
+	
 }
