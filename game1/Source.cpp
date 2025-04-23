@@ -12,7 +12,7 @@ void main()
 		}
 	}
 
-
+cout<<"mamoud is ya bdany "; 
 
 
 
